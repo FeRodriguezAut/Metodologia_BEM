@@ -1,8 +1,18 @@
-.kitchen {
-  background-color: rgba(238, 238, 145, 0.877);
-  padding: 10px;
-  border-radius: 5px;
-  margin-bottom: 10px;
+
+body {
+    font-family: sans-serif Arial, sans-serif;
+    margin: 20px;
 }
 
-.kitchen_
+h1, h2 {
+    color: #333;
+}
+
+
+
+.kitchen {
+    background-color: #f0f8ff; /* Fondo azul claro */ 
+    border: 2px solid #add8e6; /* Borde azul claro */
+    padding: 15px;
+    margin-bottom: 20px; 
+}
