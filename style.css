@@ -1,15 +1,16 @@
 
+/*cuempor en general*/
 body {
     font-family: sans-serif Arial, sans-serif;
     margin: 20px;
 }
-
+/*estilo titulos*/
 h1, h2 {
     color: #333;
 }
 
 
-
+/*estilos bloques */
 .kitchen {
     background-color: #f0f8ff; /* Fondo azul claro */ 
     border: 2px solid #add8e6; /* Borde azul claro */
@@ -58,13 +59,13 @@ h1, h2 {
 
 
 .bedroom__bed--big {
-    font-size: 1.2em; /* Hacemos la letra un 20% más grande */
-    font-weight: bold; /* Ponemos el texto en negrita */
-    background-color: #e6e6fa; /* Un fondo lavanda suave para destacarlo */
+    font-size: 1.2em; /*tamañano letra  */
+    font-weight: bold; /* texto en negrita */
+    background-color: #e6e6fa; /*  fondo */
 }
 
 .livingroom__table--new {
-    color: #006400; /* Color de letra verde oscuro */
+    color: #006400; /* Color de letra  */
     border-color: #006400; /* Borde del mismo color verde para que resalte */
 } 
 
