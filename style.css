@@ -35,27 +35,74 @@ h1, h2 {
 
 
 
-.kitchen__pot, .kitchen__plate, .kitchen__glass {
+.kitchen__pot {
     background-color: #ffffff; /* Fondo blanco */
     border: 1px solid #ccc; /* Borde gris claro */
     padding: 10px;
     margin-top: 10px; /* Espacio entre los elementos */
 }
 
-.bedroom__wardrobe, .bedroom__lamp, .bedroom__bed {
+.kitchen__plate
+{
+    background-color: #ffffff; /* Fondo blanco */
+    border: 1px solid #ccc; /* Borde gris claro */
+    padding: 10px;
+    margin-top: 10px; /* Espacio entre los elementos */
+}
+
+.kitchen__glass {
+    background-color: #ffffff; /* Fondo blanco */
+    border: 1px solid #ccc; /* Borde gris claro */
+    padding: 10px;
+    margin-top: 10px; /* Espacio entre los elementos */
+}
+
+
+
+
+.bedroom__wardrobe {
     background-color: #ffffff;
     border: 1px solid #ccc;
     padding: 10px;
     margin-top: 10px;
 }
 
-.livingroom__sofa, .livingroom__tv, .livingroom__table {
+.bedroom__lamp {
     background-color: #ffffff;
     border: 1px solid #ccc;
     padding: 10px;
     margin-top: 10px;
 }
 
+.bedroom__bed
+{
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+.livingroom__sofa {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.livingroom__tv {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.livingroom__table {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
 
 
 .bedroom__bed--big {
