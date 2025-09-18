@@ -16,3 +16,55 @@ h1, h2 {
     padding: 15px;
     margin-bottom: 20px; 
 }
+
+
+.bedroom {
+    background-color: #fff0f5; /* Fondo rosa */
+    border: 2px solid #ffb6c1; /* Borde rosa claro */
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.livingroom {
+    background-color: #f5f5dc; /* Un beige claro (Beige) */
+    border: 2px solid #d2b48c; /* Borde canela */
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+
+
+.kitchen__pot, .kitchen__plate, .kitchen__glass {
+    background-color: #ffffff; /* Fondo blanco */
+    border: 1px solid #ccc; /* Borde gris claro */
+    padding: 10px;
+    margin-top: 10px; /* Espacio entre los elementos */
+}
+
+.bedroom__wardrobe, .bedroom__lamp, .bedroom__bed {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.livingroom__sofa, .livingroom__tv, .livingroom__table {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+
+.bedroom__bed--big {
+    font-size: 1.2em; /* Hacemos la letra un 20% más grande */
+    font-weight: bold; /* Ponemos el texto en negrita */
+    background-color: #e6e6fa; /* Un fondo lavanda suave para destacarlo */
+}
+
+.livingroom__table--new {
+    color: #006400; /* Color de letra verde oscuro */
+    border-color: #006400; /* Borde del mismo color verde para que resalte */
+} 
+
