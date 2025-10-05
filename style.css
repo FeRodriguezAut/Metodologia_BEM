@@ -1,7 +1,7 @@
 
 /*cuempor en general*/
 body {
-    font-family: sans-serif Arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 20px;
 }
 /*estilo titulos*/
@@ -18,14 +18,14 @@ h1, h2 {
     margin-bottom: 20px; 
 }
 
-
+/*habiracion */
 .bedroom {
     background-color: #fff0f5; /* Fondo rosa */
     border: 2px solid #ffb6c1; /* Borde rosa claro */
     padding: 15px;
     margin-bottom: 20px;
 }
-
+/* sala*/
 .livingroom {
     background-color: #f5f5dc; /* Un beige claro (Beige) */
     border: 2px solid #d2b48c; /* Borde canela */
@@ -33,84 +33,80 @@ h1, h2 {
     margin-bottom: 20px;
 }
 
-
+/*cocina*/
 
 .kitchen__pot {
-    background-color: #ffffff; /* Fondo blanco */
-    border: 1px solid #ccc; /* Borde gris claro */
+    background-color: #eaf6ff; /* Fondo azul muy claro */
+    border: 1px solid #9ed0ea; /* Borde azul suave */
     padding: 10px;
     margin-top: 10px; /* Espacio entre los elementos */
 }
-
-.kitchen__plate
-{
-    background-color: #ffffff; /* Fondo blanco */
-    border: 1px solid #ccc; /* Borde gris claro */
+/*plato*/
+.kitchen__plate {
+    background-color: #f7fdff; /* Fondo azul muy pálido */
+    border: 1px solid #bfe8fb; /* Borde azul pálido */
     padding: 10px;
     margin-top: 10px; /* Espacio entre los elementos */
 }
-
+/*vasos*/
 .kitchen__glass {
-    background-color: #ffffff; /* Fondo blanco */
-    border: 1px solid #ccc; /* Borde gris claro */
+    background-color: #e8f9ff; /* Fondo azul muy pálido */
+    border: 1px solid #cfeefb; /* Borde azul pálido */
     padding: 10px;
     margin-top: 10px; /* Espacio entre los elementos */
 }
 
-
-
-
+/*habitacion*/
 .bedroom__wardrobe {
-    background-color: #ffffff;
-    border: 1px solid #ccc;
+    background-color: #fff2f8; /* Rosa pálido */
+    border: 1px solid #ffcbdc; /* Borde rosado */
     padding: 10px;
     margin-top: 10px;
 }
-
+/*lamprar*/
 .bedroom__lamp {
-    background-color: #ffffff;
-    border: 1px solid #ccc;
+    background-color: #fff6fb; /* Rosa muy claro */
+    border: 1px solid #ffdcef; /* Borde suave */
+    padding: 10px;
+    margin-top: 10px;
+}
+/* cama*/
+.bedroom__bed {
+    background-color: #f3eaff; /* Lavanda claro */
+    border: 1px solid #d8c9f7; /* Borde lavanda */
     padding: 10px;
     margin-top: 10px;
 }
 
-.bedroom__bed
-{
-    background-color: #ffffff;
-    border: 1px solid #ccc;
-    padding: 10px;
-    margin-top: 10px;
-}
-
-
+/* sofa*/
 .livingroom__sofa {
-    background-color: #ffffff;
-    border: 1px solid #ccc;
+    background-color: #fbf7ec; /* Beige claro */
+    border: 1px solid #e6d9b8; /* Borde canela pálido */
     padding: 10px;
     margin-top: 10px;
 }
-
+/*tv*/
 .livingroom__tv {
-    background-color: #ffffff;
-    border: 1px solid #ccc;
+    background-color: #fffaf0; /* Crema muy claro */
+    border: 1px solid #e9dcc0; /* Borde crema */
     padding: 10px;
     margin-top: 10px;
 }
-
+/*mesa*/
 .livingroom__table {
-    background-color: #ffffff;
-    border: 1px solid #ccc;
+    background-color: #fdf9f1; /* Madera pálida */
+    border: 1px solid #c9b18a; /* Borde madera */
     padding: 10px;
     margin-top: 10px;
 }
 
-
+/*cama grande*/
 .bedroom__bed--big {
     font-size: 1.2em; /*tamañano letra  */
     font-weight: bold; /* texto en negrita */
     background-color: #e6e6fa; /*  fondo */
 }
-
+/*nueva mesa*/
 .livingroom__table--new {
     color: #006400; /* Color de letra  */
     border-color: #006400; /* Borde del mismo color verde para que resalte */
